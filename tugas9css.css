@@ -1,0 +1,20 @@
+body {
+  background-size: cover;
+  background-image: url(slider.jpg);
+}
+
+div {
+  background-color: white;
+  width: 600px;
+  float: right;
+  z-index: 1;
+  text-align: right;
+  border: 5px solid white;
+}
+
+p {
+  background-color: white;
+  left: 50px;
+  top: 50px;
+  right: 100px;
+}
